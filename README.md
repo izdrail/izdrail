@@ -15,7 +15,7 @@
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://calendly.com/unixdevil/30min" target="_blank">
+<a href="https://calendly.com/unixdevil/15min" target="_blank">
 <img width="100%" alt="meet_link" src="https://server.lzomedia.com/contactus.gif">
 </a>
 
