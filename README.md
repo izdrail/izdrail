@@ -54,38 +54,6 @@ const unixdevil = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 9 Contributions in the Year 2023
- > 
-> 📦 599.8 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 46 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I Mostly Code in PHP** 
-
-```text
-PHP                      17 repos            ███████████░░░░░░░░░░░░░░   45.95% 
-Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62% 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
-
-```
-
-
-
- Last Updated on 16/01/2023 13:31:25 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github action [stats](https://github.com/unixdevil/stats)**
