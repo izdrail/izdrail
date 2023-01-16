@@ -56,6 +56,12 @@ const unixdevil = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
+# My latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 **These Readme stats are generated using Github action [stats](https://github.com/unixdevil/stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. 
