@@ -1,24 +1,25 @@
 <h2>I'm Stefan Izdrail! </h2>
 <img align='right' src="https://i.giphy.com/media/dDwicM3uFUqfC/giphy.webp" width="230">
-<p><em>Senior Software Engineer at <a href="https:/unixdevil.com/">Unix Devil
+<p><em>Senior Software Engineer at <a href="https:/lzomedia.com/">Lzo Media
 </a>
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nomaxvalue?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: Stefan](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+[![Linkedin: Stefan](https://img.shields.io/badge/nomaxvalue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nomaxvalue/)](https://www.linkedin.com/in/nomaxvalue/)
 ![GitHub followers](https://img.shields.io/github/followers/unixdevil?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://unixdevil.com/)](https://unixdevil.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+# About Me
+My name is Stefan, and I am a software developer with a not-so-serious attitude and a love for all things code. With over 12 years of experience under my belt, I like to think I know a thing or two about programming languages like PHP, Python, and frameworks like Symfony, Laravel, and Django.
 
-<a href="https://calendly.com/unixdevil/15min" target="_blank">
-<img width="100%" alt="meet_link" src="https://server.lzomedia.com/contactus.gif">
-</a>
+But don’t let my technical skills fool you, I’m also a bit of a jokester and love to bring a bit of humor to the workplace. In my free time, you can find me tinkering with Docker, trying to break things just so I can fix them (it’s a love-hate relationship).
 
+If you’re in need of a developer who can not only get the job done but also bring a smile to your face, then I’m your guy. Plus, I love a good challenge, so bring on the tough projects!
+
+# Tech Stack
 
 ```javascript
 const unixdevil = {
