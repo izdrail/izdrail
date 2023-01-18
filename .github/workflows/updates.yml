@@ -1,4 +1,4 @@
-name: Update Read me stats
+name: Update Read
 
 on:
   workflow_dispatch:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update this repo's README with latest WaKa time stats
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
