@@ -3,8 +3,8 @@ name: Update Read me stats
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 00:00AM UTC
-    - cron: '0 0 * * *'
+    # Runs at 00:00AM and 12:00 UTC
+    - cron: '0 */12 * * *'
 
 jobs:
   update-readme:
@@ -27,3 +27,14 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "True"
           LOCALE: "en"
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://lzomedia.com/feed/"
+          gh_token: ${{ secrets.GH_TOKEN }}

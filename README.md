@@ -13,44 +13,98 @@
 
 
 # About Me
-My name is Stefan, and I am a software developer with a not-so-serious attitude and a love for all things code. With over 12 years of experience under my belt, I like to think I know a thing or two about programming languages like PHP, Python, and frameworks like Symfony, Laravel, and Django.
+I create software and open source packages mainly about php, python and data engineering. 
+I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
+You can see a full list of what I am up to on [LzoMedia](https://lzomedia.com).
 
-But don’t let my technical skills fool you, I’m also a bit of a jokester and love to bring a bit of humor to the workplace. In my free time, you can find me tinkering with Docker, trying to break things just so I can fix them (it’s a love-hate relationship).
 
-If you’re in need of a developer who can not only get the job done but also bring a smile to your face, then I’m your guy. Plus, I love a good challenge, so bring on the tough projects!
+# My Tech Stack
 
-# Tech Stack
+```php
+<?php
 
-```javascript
-const unixdevil = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Golang", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography", "nlp", "ai"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-            python: ["Flask", "Django", "FastAPI"],
-            golang: ["Gin", "Gorilla"],
-            php: ["Symfony","Laravel", "CodeIgniter"]
-        },
-      frontEnd: {
-            js: ["Vue", "Angular"],
-            css: ["materialize", "vuetify", "bootstrap", "tailwind"]
-        },
-        mobileApp: {
-            native: ["Android Development"],
-            hybrid: ["Ionic", "React Native"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "AWS", "GCP", "DigitalOcean"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "spatie","php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Intrested in NLP and AI",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+namespace Stefan\Unix;
+
+class Profile extends Me
+{
+    final public function getCurrentWorkplace(): array
+    {
+        return [
+            'name' => 'Stefan I',
+            'position' => 'Senior Software Engineer',
+            'company' => 'Lzo Media',
+            'workplace' => [
+                'company' => 'Lzo Media',
+                'position' => 'Founder'         
+            ]
+        ];
+    }
+    
+    final public function getContactDetails(): array
+    {
+        return [
+            'email' => 'stefan@LzoMedia.com',
+            'website' => 'https://LzoMedia.com',
+        ];
+    }
+    
+    final public function getProgrammingLanguages(): array
+    {
+        return [
+            Php::class,
+            Python::class,
+            Typescript::class,
+            Go::class,
+        ];
+    }
+    
+    
+    final public function getFrameworks(): array
+    {
+        return [
+            Symfony::class,
+            Laravel::class,
+            Zend::class,
+            Django::class,
+            Flask::class,
+            FastApi::class,
+            Vue::class,
+            React::class,
+            Angular::class,
+            Mux::class
+            Ionic::class,
+            Bootstrap::class,
+            Tailwind::class,
+            Bulma::class,
+        ];
+    }
+    
+    
+    final public function getDatabases(): array
+    {
+        return [
+            MySql::class,
+            Postgres::class,
+            Sqlite::class,
+            Redis::class,
+            Mongo::class,
+            ElasticSearch::class,
+        ];
+    }
+
+    final public function getInterests():array
+    {
+        return [
+            "Serverless",
+            "DevOps",
+            "Cloud",
+            "NLP",
+            "Artificial Intelligence",
+        ];
+    }
+   
+}
 ```
-
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
