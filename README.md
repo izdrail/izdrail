@@ -4,18 +4,18 @@
 </a>
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/nomaxvalue?label=Follow)](https://twitter.com/intent/follow?screen_name=NoMaxValue)
-[![Linkedin: Stefan](https://img.shields.io/badge/nomaxvalue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nomaxvalue/)](https://www.linkedin.com/in/nomaxvalue/)
-![GitHub followers](https://img.shields.io/github/followers/unixdevil?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://unixdevil.com/)](https://unixdevil.com/)
-![Profile](https://visitor-badge.glitch.me/badge?page_id=unixdevil.unixdevil)
-![Waka Readme](https://github.com/unixdevil/unixdevil/workflows/Waka%20Readme/badge.svg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cornatul?label=Follow)](https://twitter.com/intent/follow?screen_name=cornatul)
+[![Linkedin: Stefan](https://img.shields.io/badge/cornatul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cornatul/)](https://www.linkedin.com/in/cornatul/)
+![GitHub followers](https://img.shields.io/github/followers/cornatul?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://cornatul.com/)](https://cornatul.com/)
+![Profile](https://visitor-badge.glitch.me/badge?page_id=cornatul.cornatul)
+![Waka Readme](https://github.com/cornatul/cornatul/workflows/Waka%20Readme/badge.svg)
 
 
 # About Me
 I create software and open source packages mainly about php, python and data engineering. 
 I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
-You can see a full list of what I am up to on [LzoMedia](https://lzomedia.com).
+You can see a full list of what I am up to on [LzoMedia](https://cornatul.com).
 
 
 # My Tech Stack
