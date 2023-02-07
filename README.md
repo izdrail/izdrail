@@ -15,7 +15,7 @@
 # About Me
 I create software and open source packages mainly about php, python and data engineering. 
 I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
-You can see a full list of what I am up to on [LzoMedia](https://cornatul.com).
+You can see a full list of what I am up to on [Cornatul.com](https://cornatul.com).
 
 
 # My Tech Stack
