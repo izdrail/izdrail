@@ -1,5 +1,5 @@
 <h2>I'm Stefan Izdrail! </h2>
-<img align='right' src="https://i.giphy.com/media/dDwicM3uFUqfC/giphy.webp" width="230">
+<img align='right' src="https://i.giphy.com/media/YePKU8cVoIF3afvi8s/giphy.webp" width="230">
 <p><em>Senior Software Engineer at <a href="https:/lzomedia.com/">Lzo Media
 </a>
 </em></p>
