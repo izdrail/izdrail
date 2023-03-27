@@ -1,4 +1,4 @@
-<h2>I'm Stefan Izdrail! </h2>
+<h2>I'm Stefan aka Cornatul! </h2>
 <img align='right' src="https://i.giphy.com/media/YePKU8cVoIF3afvi8s/giphy.webp" width="230">
 <p><em>Senior Software Engineer at <a href="https:/lzomedia.com/">Lzo Media
 </a>
@@ -9,13 +9,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/cornatul?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://cornatul.com/)](https://cornatul.com/)
 ![Profile](https://visitor-badge.glitch.me/badge?page_id=cornatul.cornatul)
-![Waka Readme](https://github.com/cornatul/cornatul/workflows/Waka%20Readme/badge.svg)
+
 
 
 # About Me
-I create software and open source packages mainly about php, python and data engineering. 
-I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
-You can see a full list of what I am up to on [Cornatul.com](https://cornatul.com).
+I create software and open source packages mainly about **php**, **python** and data engineering. 
+I have a passion for learning and **sharing my knowledge with others** in a way that's as public as possible. 
+You can see a full list of what I am up to on [Cornatul](https://lzomedia.com).
 
 
 # My Tech Stack
@@ -23,7 +23,7 @@ You can see a full list of what I am up to on [Cornatul.com](https://cornatul.co
 ```php
 <?php
 
-namespace Stefan\Unix;
+namespace Cornatul\Stefan;
 
 class Profile extends Me
 {
@@ -108,18 +108,20 @@ class Profile extends Me
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
+# My latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 # Weekly development breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 
-# My latest blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
 
-**These Readme stats are generated using Github action [stats](https://github.com/unixdevil/stats)**
+**These Readme stats are generated using Github action [stats](https://github.com/cornatul/stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. 
-It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. T
-here are others which I haven't put up on GitHub.
+It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. 
