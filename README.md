@@ -110,6 +110,11 @@ class Profile extends Me
 ---
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase wants devs to build inflation-pegged ‘flatcoins’ on its new ‘Base’ network](https://lzomedia.com/coinbase-wants-devs-to-build-inflation-pegged-flatcoins-on-its-new-base-network/)
+- [Binance got sued !!!](https://lzomedia.com/binance-got-sued/)
+- [Zoom add’s their own AI to your calls](https://lzomedia.com/zoom-ai-to-call/)
+- [Here’s some internet laws you should be aware of](https://lzomedia.com/heres-some-internet-laws-you-should-be-aware-of/)
+- [How to share something on LinkedIn using Python](https://lzomedia.com/how-to-share-something-on-linkedin-using-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
