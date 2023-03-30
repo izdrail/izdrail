@@ -110,11 +110,11 @@ class Profile extends Me
 ---
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Remote Working and Development](https://lzomedia.com/best-practices-for-remote-working-and-development/)
+- [How to use PEST to test your architecture](https://lzomedia.com/how-to-use-pest-to-test-your-architecture/)
+- [Elon Musk joins call for pause in creation  AI ‘digital minds’](https://lzomedia.com/elon-musk-joins-call-for-pause-in-creation-ai-digital-minds/)
 - [New Linux Kernel Vulnerabilities found in Ubuntu](https://lzomedia.com/linux-kernel-vulnerabilities-in-ubuntu/)
 - [UK Pension Protection Fund Hacked](https://lzomedia.com/uk-pension-protection-fund-hacked/)
-- [Alibaba splits into six](https://lzomedia.com/alibaba-splits-into-six/)
-- [Coinbase wants devs to build inflation-pegged ‘flatcoins’ on its new ‘Base’ network](https://lzomedia.com/coinbase-wants-devs-to-build-inflation-pegged-flatcoins-on-its-new-base-network/)
-- [Binance got sued !!!](https://lzomedia.com/binance-got-sued/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
