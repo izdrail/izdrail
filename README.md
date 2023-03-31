@@ -120,7 +120,7 @@ class Profile extends Me
 ---
 # Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -128,7 +128,7 @@ class Profile extends Me
 
 **🐱 My GitHub Data** 
 
-> 📦 663.8 kB Used in GitHub's Storage 
+> 📦 663.9 kB Used in GitHub's Storage 
  > 
 > 🏆 340 Contributions in the Year 2023
  > 
@@ -203,7 +203,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cornatul/Cornatul/master/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2023 12:08:54 UTC
+ Last Updated on 31/03/2023 00:18:10 UTC
 <!--END_SECTION:waka-->
 
 
