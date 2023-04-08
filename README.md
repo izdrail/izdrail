@@ -120,7 +120,7 @@ class Profile extends Me
 ---
 # Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -128,7 +128,7 @@ class Profile extends Me
 
 **🐱 My GitHub Data** 
 
-> 📦 663.8 kB Used in GitHub's Storage 
+> 📦 664.5 kB Used in GitHub's Storage 
  > 
 > 🏆 356 Contributions in the Year 2023
  > 
@@ -202,7 +202,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cornatul/Cornatul/master/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2023 12:07:31 UTC
+ Last Updated on 08/04/2023 00:15:56 UTC
 <!--END_SECTION:waka-->
 
 
