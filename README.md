@@ -165,21 +165,16 @@ Sunday                   299 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-PHP                      0 secs              ███████████████░░░░░░░░░░   60.25 % 
-Blade Template           0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-.env file                0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Projects                 0 secs              ██████████████░░░░░░░░░░░   57.17 % 
-news                     0 secs              ███████████░░░░░░░░░░░░░░   42.62 % 
-social                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -199,7 +194,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cornatul/Cornatul/master/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2023 00:16:58 UTC
+ Last Updated on 08/05/2023 12:08:48 UTC
 <!--END_SECTION:waka-->
 
 
