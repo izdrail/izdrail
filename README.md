@@ -120,7 +120,7 @@ class Profile extends Me
 ---
 # Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -130,7 +130,7 @@ class Profile extends Me
 
 > 📦 677.9 kB Used in GitHub's Storage 
  > 
-> 🏆 399 Contributions in the Year 2023
+> 🏆 400 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -180,11 +180,11 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      30 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+PHP                      31 repos            █████████████░░░░░░░░░░░░   50.82 % 
+Python                   13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 
@@ -194,7 +194,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cornatul/Cornatul/master/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2023 00:21:35 UTC
+ Last Updated on 11/05/2023 12:11:57 UTC
 <!--END_SECTION:waka-->
 
 
