@@ -120,7 +120,7 @@ class Profile extends Me
 ---
 # Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -200,7 +200,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cornatul/Cornatul/master/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2023 12:14:04 UTC
+ Last Updated on 17/05/2023 00:24:47 UTC
 <!--END_SECTION:waka-->
 
 
