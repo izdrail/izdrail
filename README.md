@@ -120,17 +120,17 @@ class Profile extends Me
 ---
 # Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 681.1 kB Used in GitHub's Storage 
+> 📦 694.9 kB Used in GitHub's Storage 
  > 
-> 🏆 517 Contributions in the Year 2023
+> 🏆 518 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -141,21 +141,21 @@ class Profile extends Me
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1253 commits        █████████░░░░░░░░░░░░░░░░   36.02 % 
-🌆 Daytime                1456 commits        ██████████░░░░░░░░░░░░░░░   41.85 % 
-🌃 Evening                726 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-🌙 Night                  44 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+🌞 Morning                1263 commits        █████████░░░░░░░░░░░░░░░░   35.97 % 
+🌆 Daytime                1468 commits        ██████████░░░░░░░░░░░░░░░   41.81 % 
+🌃 Evening                736 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+🌙 Night                  44 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   864 commits         ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-Tuesday                  655 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Wednesday                552 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Thursday                 421 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Friday                   411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Saturday                 287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Sunday                   289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Monday                   871 commits         ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+Tuesday                  664 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Wednesday                556 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Thursday                 427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Friday                   415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Saturday                 288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Sunday                   290 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 ```
 
 
@@ -199,10 +199,10 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Cornatul/Cornatul/master/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/cornatul/cornatul/master/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2023 12:08:16 UTC
+ Last Updated on 03/11/2023 00:17:37 UTC
 <!--END_SECTION:waka-->
 
 
