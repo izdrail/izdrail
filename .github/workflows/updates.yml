@@ -36,5 +36,5 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://lzomedia.com/feed/"
+          feed_list: "https://blog.lzomedia.com/feed/"
           gh_token: ${{ secrets.GH_TOKEN }}
