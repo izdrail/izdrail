@@ -110,11 +110,11 @@ class Profile extends Me
 ---
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Remote Working and Development](https://lzomedia.com/best-practices-for-remote-working-and-development/)
-- [How to use PEST to test your architecture](https://lzomedia.com/how-to-use-pest-to-test-your-architecture/)
-- [Elon Musk joins call for pause in creation  AI ‘digital minds’](https://lzomedia.com/elon-musk-joins-call-for-pause-in-creation-ai-digital-minds/)
-- [New Linux Kernel Vulnerabilities found in Ubuntu](https://lzomedia.com/linux-kernel-vulnerabilities-in-ubuntu/)
-- [UK Pension Protection Fund Hacked](https://lzomedia.com/uk-pension-protection-fund-hacked/)
+- [Connecting the Dots](https://blog.lzomedia.com/connecting-the-dots/)
+- [October Conference News](https://blog.lzomedia.com/october-conference-news/)
+- [Raspberry Pi 5 Announced](https://blog.lzomedia.com/raspberry-pi-5-announced/)
+- [WebKit Contributors Meeting 2023](https://blog.lzomedia.com/webkit-contributors-meeting-2023/)
+- [November Conference News](https://blog.lzomedia.com/november-conference-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
