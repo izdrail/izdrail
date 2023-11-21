@@ -110,11 +110,11 @@ class Profile extends Me
 ---
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Scalable and Efficient Systems](https://blog.lzomedia.com/building-scalable-and-efficient-systems/)
+- [Awesome Selfhosted Tools With AI](https://blog.lzomedia.com/awesome-selfhosted-tools-with-ai/)
+- [Test](https://blog.lzomedia.com/test/)
 - [Undertaking GOV.UK’s largest software infrastructure project](https://blog.lzomedia.com/undertaking-gov-uks-largest-software-infrastructure-project/)
 - [Add Icons to Your External Links Purely with CSS](https://blog.lzomedia.com/add-icons-to-your-external-links-purely-with-css/)
-- [The Organizing Principle of Web Components](https://blog.lzomedia.com/the-organizing-principle-of-web-components/)
-- [PWA: What changed in 2023?](https://blog.lzomedia.com/pwa-what-changed-in-2023/)
-- [Differences between background_color and theme_color in a PWA manifest](https://blog.lzomedia.com/differences-between-background_color-and-theme_color-in-a-pwa-manifest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
