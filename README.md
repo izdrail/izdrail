@@ -110,11 +110,11 @@ class Profile extends Me
 ---
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Desktop – The Linux Fork](https://blog.lzomedia.com/github-desktop-the-linux-fork/)
 - [Laravel slim skeleton has been merged into master](https://blog.lzomedia.com/laravel-slim-skeleton-has-been-merged-into-master/)
 - [Building Scalable and Efficient Systems](https://blog.lzomedia.com/building-scalable-and-efficient-systems/)
 - [Awesome Selfhosted Tools With AI](https://blog.lzomedia.com/awesome-selfhosted-tools-with-ai/)
 - [Undertaking GOV.UK’s largest software infrastructure project](https://blog.lzomedia.com/undertaking-gov-uks-largest-software-infrastructure-project/)
-- [Add Icons to Your External Links Purely with CSS](https://blog.lzomedia.com/add-icons-to-your-external-links-purely-with-css/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
