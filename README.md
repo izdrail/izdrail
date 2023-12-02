@@ -120,7 +120,7 @@ class Profile extends Me
 ---
 # Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -202,7 +202,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cornatul/cornatul/master/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2023 12:08:34 UTC
+ Last Updated on 02/12/2023 00:17:26 UTC
 <!--END_SECTION:waka-->
 
 
