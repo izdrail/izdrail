@@ -165,17 +165,16 @@ Sunday                   116 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Vue.js                   6 mins              █████████████████████░░░░   82.24 % 
-JavaScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Projects                 7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -195,7 +194,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cornatul/cornatul/master/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2023 00:15:08 UTC
+ Last Updated on 29/12/2023 12:07:30 UTC
 <!--END_SECTION:waka-->
 
 
