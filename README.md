@@ -120,7 +120,7 @@ class Profile extends Me
 ---
 # Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -165,16 +165,21 @@ Sunday                   108 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      3 mins              ████████████████████░░░░░   78.53 % 
+Astro                    0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 3 mins              ████████████████████░░░░░   80.05 % 
+Unknown Editor           0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+trainscommunity          3 mins              ████████████████████░░░░░   78.53 % 
+lzomedia.com             0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+laravel-social           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -194,7 +199,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cornatul/cornatul/master/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2024 00:17:40 UTC
+ Last Updated on 17/02/2024 12:07:05 UTC
 <!--END_SECTION:waka-->
 
 
