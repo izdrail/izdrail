@@ -110,11 +110,11 @@ class Profile extends Me
 ---
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The art of command line](https://blog.lzomedia.com/the-art-of-command-line/)
+- [The Cyber Scheme Unveils Training Course for IoT Security Testers](https://blog.lzomedia.com/the-cyber-scheme-unveils-training-course-for-iot-security-testers/)
+- [Essential Plugins for PhpStorm Users: Elevate Your Development Environment](https://blog.lzomedia.com/essential-plugins-for-phpstorm-users-elevate-your-development-environment/)
 - [Understanding Laravel Service Providers](https://blog.lzomedia.com/understanding-laravel-service-providers/)
 - [Security Vulnerabilities Discovered in nginx HTTP/3 Implementation](https://blog.lzomedia.com/security-vulnerabilities-discovered-in-nginx-http-3-implementation/)
-- [Unlocking the Power of Container Orchestration: K3s vs. K8s](https://blog.lzomedia.com/unlocking-the-power-of-container-orchestration-k3s-vs-k8s/)
-- [GitHub Desktop – The Linux Fork](https://blog.lzomedia.com/github-desktop-the-linux-fork/)
-- [Laravel slim skeleton has been merged into master](https://blog.lzomedia.com/laravel-slim-skeleton-has-been-merged-into-master/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
