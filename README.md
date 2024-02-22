@@ -110,11 +110,11 @@ class Profile extends Me
 ---
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlock Your Full Potential: The Ultimate Guide to Hiring a Top-notch PHP Developer](https://blog.lzomedia.com/unlock-your-full-potential-the-ultimate-guide-to-hiring-a-top-notch-php-developer/)
 - [The art of command line](https://blog.lzomedia.com/the-art-of-command-line/)
 - [The Cyber Scheme Unveils Training Course for IoT Security Testers](https://blog.lzomedia.com/the-cyber-scheme-unveils-training-course-for-iot-security-testers/)
 - [Essential Plugins for PhpStorm Users: Elevate Your Development Environment](https://blog.lzomedia.com/essential-plugins-for-phpstorm-users-elevate-your-development-environment/)
 - [Understanding Laravel Service Providers](https://blog.lzomedia.com/understanding-laravel-service-providers/)
-- [Security Vulnerabilities Discovered in nginx HTTP/3 Implementation](https://blog.lzomedia.com/security-vulnerabilities-discovered-in-nginx-http-3-implementation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
