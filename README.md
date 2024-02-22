@@ -1,5 +1,4 @@
 <h2>I'm Stefan aka Cornatul! </h2>
-<img align='right' src="https://i.giphy.com/media/YePKU8cVoIF3afvi8s/giphy.webp" width="230">
 <p><em>Senior Software Engineer at <a href="https:/lzomedia.com/">Lzo Media
 </a>
 </em></p>
@@ -8,7 +7,6 @@
 [![Linkedin: Stefan](https://img.shields.io/badge/cornatul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cornatul/)](https://www.linkedin.com/in/cornatul/)
 ![GitHub followers](https://img.shields.io/github/followers/cornatul?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://cornatul.com/)](https://cornatul.com/)
-![Profile](https://visitor-badge.glitch.me/badge?page_id=cornatul.cornatul)
 
 
 
