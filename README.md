@@ -108,11 +108,11 @@ class Profile extends Me
 ---
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Shodan Dorks: A Comprehensive Guide](https://blog.lzomedia.com/understanding-shodan-dorks-a-comprehensive-guide/)
+- [Discover the Latest Git Configuration Options Every Developer Needs to Know](https://blog.lzomedia.com/discover-the-latest-git-configuration-options-every-developer-needs-to-know/)
 - [Unlock Your Full Potential: The Ultimate Guide to Hiring a Top-notch PHP Developer](https://blog.lzomedia.com/unlock-your-full-potential-the-ultimate-guide-to-hiring-a-top-notch-php-developer/)
 - [The art of command line](https://blog.lzomedia.com/the-art-of-command-line/)
 - [The Cyber Scheme Unveils Training Course for IoT Security Testers](https://blog.lzomedia.com/the-cyber-scheme-unveils-training-course-for-iot-security-testers/)
-- [Essential Plugins for PhpStorm Users: Elevate Your Development Environment](https://blog.lzomedia.com/essential-plugins-for-phpstorm-users-elevate-your-development-environment/)
-- [Understanding Laravel Service Providers](https://blog.lzomedia.com/understanding-laravel-service-providers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
