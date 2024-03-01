@@ -108,11 +108,11 @@ class Profile extends Me
 ---
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chinese EVs pose a threat to US national security, Biden warns](https://blog.lzomedia.com/chinese-evs-pose-a-threat-to-us-national-security-biden-warns/)
 - [Building Serverless BERT Applications with Hugging Face, AWS Lambda, and Docker](https://blog.lzomedia.com/building-serverless-bert-applications-with-hugging-face-aws-lambda-and-docker/)
 - [Understanding Shodan Dorks: A Comprehensive Guide](https://blog.lzomedia.com/understanding-shodan-dorks-a-comprehensive-guide/)
 - [Discover the Latest Git Configuration Options Every Developer Needs to Know](https://blog.lzomedia.com/discover-the-latest-git-configuration-options-every-developer-needs-to-know/)
 - [Unlock Your Full Potential: The Ultimate Guide to Hiring a Top-notch PHP Developer](https://blog.lzomedia.com/unlock-your-full-potential-the-ultimate-guide-to-hiring-a-top-notch-php-developer/)
-- [The art of command line](https://blog.lzomedia.com/the-art-of-command-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
