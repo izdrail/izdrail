@@ -121,8 +121,6 @@ class Profile extends Me
 ---
 # Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
@@ -131,61 +129,14 @@ class Profile extends Me
 
 > 📦 425.6 kB Used in GitHub's Storage 
  > 
-> 🏆 119 Contributions in the Year 2024
+> 🏆 123 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 80 Public Repositories 
+> 📜 81 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                617 commits         █████████░░░░░░░░░░░░░░░░   34.94 % 
-🌆 Daytime                800 commits         ███████████░░░░░░░░░░░░░░   45.30 % 
-🌃 Evening                335 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   438 commits         ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-Tuesday                  339 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Wednesday                341 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Thursday                 352 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Friday                   131 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Saturday                 68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Sunday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-PHP                      15 hrs 4 mins       ████████████████████░░░░░   79.23 % 
-Blade Template           1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-
-🔥 Editors: 
-PhpStorm                 19 hrs 2 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-social.lzomedia          11 hrs              ██████████████░░░░░░░░░░░   57.87 % 
-todayintel.com           5 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.18 % 
-trainscommunity          1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-waterhole                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Projects                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-
-💻 Operating System: 
-Linux                    19 hrs 2 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -200,10 +151,10 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/cornatul/cornatul/master/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/saturnphp/saturnphp/master/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2024 12:26:27 UTC
+ Last Updated on 18/03/2024 12:27:08 UTC
 <!--END_SECTION:waka-->
 
 
