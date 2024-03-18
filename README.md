@@ -1,7 +1,10 @@
-<h2>I'm Stefan aka Saturn PHP ! </h2>
-<p><em>Senior Software Engineer at <a href="https:/lzomedia.com/">Saturn PHP
-</a>
-</em></p>
+## I'm Stefan aka Saturn PHP !
+
+<p>
+    <em>Senior Software Engineer at  [SaturnPHP](https://lzomedia.com)
+</em>
+
+</p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cornatul?label=Follow)](https://twitter.com/intent/follow?screen_name=cornatul)
 [![Linkedin: Stefan](https://img.shields.io/badge/cornatul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cornatul/)](https://www.linkedin.com/in/cornatul/)
@@ -13,7 +16,7 @@
 # About Me
 I create software and open source packages mainly about **php**, **python** and data engineering. 
 I have a passion for learning and **sharing my knowledge with others** in a way that's as public as possible. 
-You can see a full list of what I am up to on [Cornatul](https://lzomedia.com).
+You can see a full list of what I am up to on [SaturnPHP](https://lzomedia.com).
 
 
 # My Tech Stack
@@ -21,7 +24,7 @@ You can see a full list of what I am up to on [Cornatul](https://lzomedia.com).
 ```php
 <?php
 
-namespace Cornatul\Stefan;
+namespace SaturnPHP\Stefan;
 
 class Profile extends Me
 {
