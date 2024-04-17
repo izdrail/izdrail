@@ -111,11 +111,11 @@ class Profile extends Me
 ---
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chinese EVs pose a threat to US national security, Biden warns](https://blog.lzomedia.com/chinese-evs-pose-a-threat-to-us-national-security-biden-warns/)
-- [Building Serverless BERT Applications with Hugging Face, AWS Lambda, and Docker](https://blog.lzomedia.com/building-serverless-bert-applications-with-hugging-face-aws-lambda-and-docker/)
-- [Understanding Shodan Dorks: A Comprehensive Guide](https://blog.lzomedia.com/understanding-shodan-dorks-a-comprehensive-guide/)
-- [Discover the Latest Git Configuration Options Every Developer Needs to Know](https://blog.lzomedia.com/discover-the-latest-git-configuration-options-every-developer-needs-to-know/)
-- [Unlock Your Full Potential: The Ultimate Guide to Hiring a Top-notch PHP Developer](https://blog.lzomedia.com/unlock-your-full-potential-the-ultimate-guide-to-hiring-a-top-notch-php-developer/)
+- [Gold medal for politics: why Olympic prize money is a smart move by Seb Coe](https://blog.lzomedia.com/gold-medal-for-politics-why-olympic-prize-money-is-a-smart-move-by-seb-coe/)
+- [Daily horoscope: Thursday, April 11, 2024 star sign readings](https://blog.lzomedia.com/daily-horoscope-thursday-april-11-2024-star-sign-readings/)
+- [Your Career Horoscope for April, According to Princess Diana’s Former Astrologer: ‘Best Month for Manifesting’](https://blog.lzomedia.com/your-career-horoscope-for-april-according-to-princess-dianas-former-astrologer-best-month-for-manifesting/)
+- [Libra Horoscope Today: April 11, 2024](https://blog.lzomedia.com/libra-horoscope-today-april-11-2024/)
+- [Libra, Horoscope Today, April 11, 2024: Navigate relationships and projects with grace](https://blog.lzomedia.com/libra-horoscope-today-april-11-2024-navigate-relationships-and-projects-with-grace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
