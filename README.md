@@ -111,11 +111,11 @@ class Profile extends Me
 ---
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gold medal for politics: why Olympic prize money is a smart move by Seb Coe](https://blog.lzomedia.com/gold-medal-for-politics-why-olympic-prize-money-is-a-smart-move-by-seb-coe/)
-- [Daily horoscope: Thursday, April 11, 2024 star sign readings](https://blog.lzomedia.com/daily-horoscope-thursday-april-11-2024-star-sign-readings/)
-- [Your Career Horoscope for April, According to Princess Diana’s Former Astrologer: ‘Best Month for Manifesting’](https://blog.lzomedia.com/your-career-horoscope-for-april-according-to-princess-dianas-former-astrologer-best-month-for-manifesting/)
-- [Libra Horoscope Today: April 11, 2024](https://blog.lzomedia.com/libra-horoscope-today-april-11-2024/)
-- [Libra, Horoscope Today, April 11, 2024: Navigate relationships and projects with grace](https://blog.lzomedia.com/libra-horoscope-today-april-11-2024-navigate-relationships-and-projects-with-grace/)
+- [‘World Of Goo 2’ Needs More Time, Delayed Until August](https://blog.lzomedia.com/world-of-goo-2-needs-more-time-delayed-until-august-7/)
+- [SEC Achieves Jury Verdict In Cryptocurrency Fraud Case](https://blog.lzomedia.com/sec-achieves-jury-verdict-in-cryptocurrency-fraud-case-7/)
+- [‘World Of Goo 2’ Needs More Time, Delayed Until August](https://blog.lzomedia.com/world-of-goo-2-needs-more-time-delayed-until-august-6/)
+- [Terraform Creditors Say All Clear To Hire Crypto Tracing Firm](https://blog.lzomedia.com/terraform-creditors-say-all-clear-to-hire-crypto-tracing-firm-5/)
+- [SEC Achieves Jury Verdict In Cryptocurrency Fraud Case](https://blog.lzomedia.com/sec-achieves-jury-verdict-in-cryptocurrency-fraud-case-6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
