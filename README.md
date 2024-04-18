@@ -111,11 +111,11 @@ class Profile extends Me
 ---
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [‘World Of Goo 2’ Needs More Time, Delayed Until August](https://blog.lzomedia.com/world-of-goo-2-needs-more-time-delayed-until-august-7/)
 - [SEC Achieves Jury Verdict In Cryptocurrency Fraud Case](https://blog.lzomedia.com/sec-achieves-jury-verdict-in-cryptocurrency-fraud-case-7/)
-- [‘World Of Goo 2’ Needs More Time, Delayed Until August](https://blog.lzomedia.com/world-of-goo-2-needs-more-time-delayed-until-august-6/)
 - [Terraform Creditors Say All Clear To Hire Crypto Tracing Firm](https://blog.lzomedia.com/terraform-creditors-say-all-clear-to-hire-crypto-tracing-firm-5/)
 - [SEC Achieves Jury Verdict In Cryptocurrency Fraud Case](https://blog.lzomedia.com/sec-achieves-jury-verdict-in-cryptocurrency-fraud-case-6/)
+- [Katy Perry Suffers Breakable Wardrobe Malfunction in Silver Chrome Top: Video](https://blog.lzomedia.com/katy-perry-suffers-breakable-wardrobe-malfunction-in-silver-chrome-top-video-5/)
+- [Terraform Creditors Say All Clear To Hire Crypto Tracing Firm](https://blog.lzomedia.com/terraform-creditors-say-all-clear-to-hire-crypto-tracing-firm-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
