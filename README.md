@@ -111,11 +111,11 @@ class Profile extends Me
 ---
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 2024 Angular Developer RoadMap](https://blog.lzomedia.com/the-2024-angular-developer-roadmap/)
 - [Boost Your PHP Skills with the PHP UK Conference Talks!](https://blog.lzomedia.com/boost-your-php-skills-with-the-php-uk-conference-talks/)
 - [MEGA SEO &amp; MARKETING TOOLS LIST](https://blog.lzomedia.com/mega-seo-marketing-tools-list/)
 - [SEC Achieves Jury Verdict In Cryptocurrency Fraud Case](https://blog.lzomedia.com/sec-achieves-jury-verdict-in-cryptocurrency-fraud-case-7/)
 - [Terraform Creditors Say All Clear To Hire Crypto Tracing Firm](https://blog.lzomedia.com/terraform-creditors-say-all-clear-to-hire-crypto-tracing-firm-5/)
-- [SEC Achieves Jury Verdict In Cryptocurrency Fraud Case](https://blog.lzomedia.com/sec-achieves-jury-verdict-in-cryptocurrency-fraud-case-6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
