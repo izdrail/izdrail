@@ -1,22 +1,22 @@
 ## I'm Stefan aka Saturn PHP !
 
 <p>
-    <em>Senior Software Engineer at  [SaturnPHP](https://lzomedia.com)
+    <em>Senior Software Developer at  [SaturnPHP](https://lzomedia.com)
 </em>
 
 </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/cornatul?label=Follow)](https://twitter.com/intent/follow?screen_name=cornatul)
-[![Linkedin: Stefan](https://img.shields.io/badge/cornatul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cornatul/)](https://www.linkedin.com/in/cornatul/)
-![GitHub followers](https://img.shields.io/github/followers/cornatul?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://cornatul.com/)](https://cornatul.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cornatul?label=Follow)](https://twitter.com/intent/follow?screen_name=gumbophp)
+[![Linkedin: Stefan](https://img.shields.io/badge/cornatul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cornatul/)](https://www.linkedin.com/in/gumbophp/)
+![GitHub followers](https://img.shields.io/github/followers/lzomedia?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://lzomedia.com/)](https://lzomedia.com/)
 
 
 
 # About Me
 I create software and open source packages mainly about **php**, **python** and data engineering. 
 I have a passion for learning and **sharing my knowledge with others** in a way that's as public as possible. 
-You can see a full list of what I am up to on [SaturnPHP](https://lzomedia.com).
+You can see a full list of what I am up to on [GumboPHP](https://lzomedia.com).
 
 
 # My Tech Stack
@@ -52,10 +52,11 @@ class Profile extends Me
     final public function getProgrammingLanguages(): array
     {
         return [
-            Php::class,
+            PHP::class,
             Python::class,
             Typescript::class,
-            Go::class,
+            Golang::class,
+            C::class,
         ];
     }
     
@@ -89,7 +90,7 @@ class Profile extends Me
             Sqlite::class,
             Redis::class,
             Mongo::class,
-            ElasticSearch::class,
+            Elastic::class,
         ];
     }
 
