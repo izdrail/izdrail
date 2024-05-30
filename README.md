@@ -1,7 +1,7 @@
 ## I'm Stefan aka Saturn PHP !
 
 <p>
-    <em>Senior Software Developer at  [SaturnPHP](https://lzomedia.com)
+    <em>Senior Software Developer at  [Dumbo](https://lzomedia.com)
 </em>
 
 </p>
@@ -16,7 +16,7 @@
 # About Me
 I create software and open source packages mainly about **php**, **python** and data engineering. 
 I have a passion for learning and **sharing my knowledge with others** in a way that's as public as possible. 
-You can see a full list of what I am up to on [GumboPHP](https://lzomedia.com).
+You can see a full list of what I am up to on [DumboPHP](https://lzomedia.com).
 
 
 # My Tech Stack
