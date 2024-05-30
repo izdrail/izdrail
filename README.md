@@ -1,4 +1,4 @@
-## I'm Stefan aka Saturn PHP !
+## I'm Stefan aka Dumbo  !
 
 <p>
     <em>Senior Software Developer at  [Dumbo](https://lzomedia.com)
