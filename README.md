@@ -1,22 +1,15 @@
-## I'm Stefan aka Dumbo  !
+## I'm Stefan ⚯
 
-<p>
-    <em>Senior Software Developer at  [Dumbo](https://lzomedia.com)
-</em>
-
-</p>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/cornatul?label=Follow)](https://twitter.com/intent/follow?screen_name=gumbophp)
-[![Linkedin: Stefan](https://img.shields.io/badge/cornatul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cornatul/)](https://www.linkedin.com/in/gumbophp/)
-![GitHub followers](https://img.shields.io/github/followers/lzomedia?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://lzomedia.com/)](https://lzomedia.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thephpteacher?label=Follow)](https://twitter.com/intent/follow?screen_name=thephpteacher)
+[![Linkedin: Stefan](https://img.shields.io/badge/izdrail-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izdrail/)](https://www.linkedin.com/in/izdrail/)
+![GitHub followers](https://img.shields.io/github/followers/izdrail?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://izdrail.com/)](https://izdrail.com/)
 
 
 
 # About Me
-I create software and open source packages mainly about **php**, **python** and data engineering. 
-I have a passion for learning and **sharing my knowledge with others** in a way that's as public as possible. 
-You can see a full list of what I am up to on [DumboPHP](https://lzomedia.com).
+With over 17 years of experience in solving complex software challenges, I specialize in backend development, API design, and cloud infrastructure. I’ve worked across industries, developing scalable, efficient solutions with a strong focus on PHP, Python, and data-driven applications. 
+From crafting custom Laravel microservices to integrating cutting-edge financial APIs, my goal is to deliver robust, scalable systems for businesses.
 
 
 # My Tech Stack
@@ -24,7 +17,7 @@ You can see a full list of what I am up to on [DumboPHP](https://lzomedia.com).
 ```php
 <?php
 
-namespace SaturnPHP\Stefan;
+namespace Izdrail\Stefan;
 
 class Profile extends Me
 {
@@ -33,19 +26,15 @@ class Profile extends Me
         return [
             'name' => 'Stefan I',
             'position' => 'Senior Software Engineer',
-            'company' => 'Lzo Media',
-            'workplace' => [
-                'company' => 'Lzo Media',
-                'position' => 'Founder'         
-            ]
+            'company' => 'Open Source Collective',
         ];
     }
     
     final public function getContactDetails(): array
     {
         return [
-            'email' => 'stefan@LzoMedia.com',
-            'website' => 'https://LzoMedia.com',
+            'email' => 'stefan@izdrail.com',
+            'website' => 'https://izdrail.com',
         ];
     }
     
@@ -55,8 +44,6 @@ class Profile extends Me
             PHP::class,
             Python::class,
             Typescript::class,
-            Golang::class,
-            C::class,
         ];
     }
     
@@ -66,7 +53,7 @@ class Profile extends Me
         return [
             Symfony::class,
             Laravel::class,
-            Zend::class,
+            Laminas::class,
             Django::class,
             Flask::class,
             FastApi::class,
@@ -98,10 +85,15 @@ class Profile extends Me
     {
         return [
             "Serverless",
-            "DevOps",
-            "Cloud",
-            "NLP",
             "Artificial Intelligence",
+        ];
+    }
+
+    final public function getHobbies():array
+    {
+        return [
+            "Fishing",
+            "Tracking",
         ];
     }
    
@@ -109,15 +101,6 @@ class Profile extends Me
 ```
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
-# My latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- [The 2024 Angular Developer RoadMap](https://blog.lzomedia.com/the-2024-angular-developer-roadmap/)
-- [Boost Your PHP Skills with the PHP UK Conference Talks!](https://blog.lzomedia.com/boost-your-php-skills-with-the-php-uk-conference-talks/)
-- [MEGA SEO &amp; MARKETING TOOLS LIST](https://blog.lzomedia.com/mega-seo-marketing-tools-list/)
-- [SEC Achieves Jury Verdict In Cryptocurrency Fraud Case](https://blog.lzomedia.com/sec-achieves-jury-verdict-in-cryptocurrency-fraud-case-7/)
-- [Terraform Creditors Say All Clear To Hire Crypto Tracing Firm](https://blog.lzomedia.com/terraform-creditors-say-all-clear-to-hire-crypto-tracing-firm-5/)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 # Weekly development breakdown
@@ -213,5 +196,4 @@ C++                      2 repos             █░░░░░░░░░░�
 
 **These Readme stats are generated using Github action [stats](https://github.com/cornatul/stats)**
 
-NOTE: Top languages does not indicate my skill level or anything like that. 
-It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. 
+NOTE: Top languages do not indicate my skill level or anything like that. 
