@@ -27,14 +27,3 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "True"
           LOCALE: "en"
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://blog.lzomedia.com/feed/"
-          gh_token: ${{ secrets.GH_TOKEN }}

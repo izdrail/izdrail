@@ -184,7 +184,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/dumbophp/dumbophp/master/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/refs/heads/master/assets/bar_graph.png)
 
 
  Last Updated on 31/05/2024 00:20:17 UTC
@@ -194,6 +194,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ---
 
 
-**These Readme stats are generated using Github action [stats](https://github.com/cornatul/stats)**
+**These Readme stats are generated using Github action [stats](https://github.com/izdrail/stats)**
 
 NOTE: Top languages do not indicate my skill level or anything like that. 
