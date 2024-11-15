@@ -1,16 +1,16 @@
-# Hi there, I'm Stefan 👋
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/thephpteacher?label=Follow)](https://twitter.com/intent/follow?screen_name=thephpteacher)
 [![Linkedin: Stefan](https://img.shields.io/badge/izdrail-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izdrail/)](https://www.linkedin.com/in/izdrail/)
 ![GitHub followers](https://img.shields.io/github/followers/izdrail?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://izdrail.com/)](https://izdrail.com/)
 
 ## 🚀 About Me
-Senior Software Engineer with 17+ years of expertise in crafting robust backend solutions and scalable architectures. Specialized in:
-- 🔧 Backend Development & API Design
+❡enior Software Engineer with 10+ years of expertise in crafting robust backend solutions and scalable architectures. 
+Specialized in:
+
+- ❦ Backend Development & API Design
 - ☁️ Cloud Infrastructure
 - 🎯 Data-Driven Applications
-- 📊 System Architecture & Scalability
+- ➿ System Architecture & Scalability
 
 ## 💻 Tech Stack
 
