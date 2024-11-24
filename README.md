@@ -80,6 +80,45 @@ class Profile extends Me
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                259 commits         ██████████░░░░░░░░░░░░░░░   41.24 % 
+🌆 Daytime                256 commits         ██████████░░░░░░░░░░░░░░░   40.76 % 
+🌃 Evening                88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+🌙 Night                  25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Tuesday                  112 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Wednesday                123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Thursday                 95 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Friday                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Saturday                 27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Sunday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Astro** 
 
 ```text
@@ -97,7 +136,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2024 02:55:41 UTC
+ Last Updated on 24/11/2024 12:09:43 UTC
 <!--END_SECTION:waka-->
 
 ---
