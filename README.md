@@ -9,10 +9,10 @@ Specialized in:
 
 - ❦ Backend Development & API Design
 - ☁️ Cloud Infrastructure
-- 🎯 Data-Driven Applications
+-  Data-Driven Applications
 - ➿ System Architecture & Scalability
 
-## 💻 Tech Stack
+## Tech Stack
 
 ```php
 <?php
@@ -67,6 +67,6 @@ class Profile extends Me
 ---
 
 
-**These Readme stats are generated using Github action [stats](https://github.com/izdrail/stats)**
+**These Readme stats are generated using GitHub action [stats](https://github.com/izdrail/stats)**
 
 NOTE: Top languages do not indicate my skill level or anything like that. 
