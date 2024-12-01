@@ -62,8 +62,6 @@ class Profile extends Me
 ---
 # Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%2056%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
@@ -80,45 +78,6 @@ class Profile extends Me
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                266 commits         ██████████░░░░░░░░░░░░░░░   41.43 % 
-🌆 Daytime                257 commits         ██████████░░░░░░░░░░░░░░░   40.03 % 
-🌃 Evening                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   112 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Tuesday                  113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Wednesday                126 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Thursday                 98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Friday                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Saturday                 27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Sunday                   66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -136,7 +95,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2024 12:10:49 UTC
+ Last Updated on 01/12/2024 00:32:19 UTC
 <!--END_SECTION:waka-->
 
 ---
