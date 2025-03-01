@@ -62,7 +62,7 @@ class Profile extends Me
 ---
 # Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
 
@@ -72,7 +72,7 @@ class Profile extends Me
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 330 Contributions in the Year 2025
+> 🏆 331 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -130,11 +130,11 @@ Linux                    33 hrs 50 mins      ███████████�
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      13 repos            ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Python                   9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Astro                    7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+PHP                      13 repos            ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Python                   9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Astro                    7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
@@ -144,7 +144,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2025 12:12:06 UTC
+ Last Updated on 01/03/2025 00:28:54 UTC
 <!--END_SECTION:waka-->
 
 ---
