@@ -62,9 +62,7 @@ class Profile extends Me
 ---
 # Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C169%20hrs%2022%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
 
@@ -72,7 +70,7 @@ class Profile extends Me
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 293 Contributions in the Year 2025
+> 🏆 297 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -80,53 +78,6 @@ class Profile extends Me
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                284 commits         ██████████░░░░░░░░░░░░░░░   39.94 % 
-🌆 Daytime                287 commits         ██████████░░░░░░░░░░░░░░░   40.37 % 
-🌃 Evening                109 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-🌙 Night                  31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Tuesday                  122 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Wednesday                165 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Thursday                 105 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Friday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Saturday                 41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Sunday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-PHP                      12 hrs 50 mins      ████████████░░░░░░░░░░░░░   47.96 % 
-Blade Template           5 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-TypeScript               2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Python                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-
-🔥 Editors: 
-VS Code                  26 hrs 46 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-furaciuni.ro             19 hrs 48 mins      ██████████████████░░░░░░░   73.97 % 
-laravelgpt.com           2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-backend.izdrail.com      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-gsn-php-codetest         1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-web-widget-master        30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-
-💻 Operating System: 
-Linux                    26 hrs 46 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -144,7 +95,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2025 12:12:33 UTC
+ Last Updated on 23/03/2025 12:11:12 UTC
 <!--END_SECTION:waka-->
 
 ---
