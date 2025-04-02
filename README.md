@@ -70,11 +70,11 @@ class Profile extends Me
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 312 Contributions in the Year 2025
+> 🏆 325 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -82,8 +82,8 @@ class Profile extends Me
 
 ```text
 PHP                      12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-Astro                    7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Astro                    6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
@@ -95,7 +95,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2025 00:30:15 UTC
+ Last Updated on 02/04/2025 12:12:50 UTC
 <!--END_SECTION:waka-->
 
 ---
