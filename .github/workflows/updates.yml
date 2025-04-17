@@ -3,8 +3,8 @@ name: Update Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 00:00AM and 12:00 UTC
-    - cron: '0 */12 * * *'
+    # Runs at 08:00AM and 08:00PM UTC
+    - cron: '0 8,20 * * *'
 
 jobs:
   update-readme:
