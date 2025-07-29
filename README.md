@@ -1,6 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/thephpteacher?label=Follow)](https://twitter.com/intent/follow?screen_name=thephpteacher)
 [![Linkedin: Stefan](https://img.shields.io/badge/izdrail-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izdrail/)](https://www.linkedin.com/in/izdrail/)
-![GitHub followers](https://img.shields.io/github/followers/izdrail?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://izdrail.com/)](https://izdrail.com/)
 
 
@@ -10,7 +8,7 @@
 **Senior Software Engineer**  
 *10+ years crafting robust backend solutions & scalable architectures*  
 
-📍 **Wickford, Essex, United Kingdom**  
+📍 **Essex, United Kingdom**  
 
 ---
 
@@ -76,7 +74,7 @@ class Profile extends Me
     final public function getCurrentWorkplace(): array
     {
         return [
-            'name' => 'Stefan I',
+            'name' => 'Stefan Bogdan',
             'position' => 'Senior Software Engineer',
             'company' => 'Laravel Company',
         ];
@@ -94,7 +92,7 @@ class Profile extends Me
             ],
             'databases' => [
                 'sql' => [MySql::class, Postgres::class, Sqlite::class],
-                'nosql' => [Redis::class, Mongo::class, Elastic::class]
+                'nosql' => [Redis::class, Mongo::class, Elastic::class, DuckDB::class]
             ]
         ];
     }
@@ -102,7 +100,7 @@ class Profile extends Me
     final public function getPassions(): array
     {
         return [
-            'tech' => ['Serverless', 'Artificial Intelligence'],
+            'blogs' => ['phpteacher.com', 'ecudocs.com'],
             'hobbies' => ['Fishing', 'Tracking']
         ];
     }
@@ -117,7 +115,3 @@ class Profile extends Me
 <!--END_SECTION:waka-->
 ---
 
-
-**These Readme stats are generated using GitHub action [stats](https://github.com/izdrail/stats.izdrail.com)**
-
-NOTE: Top languages do not indicate my skill level or anything like that. 
