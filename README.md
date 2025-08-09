@@ -111,6 +111,40 @@ class Profile extends Me
 # Weekly development breakdown
 ---
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.4%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 472 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   32.50 % 
+PHP                      11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Astro                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
+
+
+ Last Updated on 09/08/2025 12:07:34 UTC
 <!--END_SECTION:waka-->
 ---
 
