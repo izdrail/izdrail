@@ -110,7 +110,6 @@ class Profile extends Me
 
 # Weekly development breakdown
 ---
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ---
