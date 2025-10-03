@@ -111,7 +111,9 @@ class Profile extends Me
 # Weekly development breakdown
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C478%20hrs%2023%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.4%20million%20lines%20of%20code-blue)
 
@@ -119,7 +121,7 @@ class Profile extends Me
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 590 Contributions in the Year 2025
+> 🏆 589 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -127,6 +129,42 @@ class Profile extends Me
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                325 commits         ████████████░░░░░░░░░░░░░   47.58 % 
+🌆 Daytime                239 commits         █████████░░░░░░░░░░░░░░░░   34.99 % 
+🌃 Evening                102 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+🌙 Night                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   96 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Tuesday                  122 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Wednesday                144 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Thursday                 111 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Saturday                 109 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Sunday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -144,7 +182,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 08:11:33 UTC
+ Last Updated on 03/10/2025 20:11:07 UTC
 <!--END_SECTION:waka-->
 ---
 
