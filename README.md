@@ -111,8 +111,6 @@ class Profile extends Me
 # Weekly development breakdown
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C478%20hrs%2023%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.5%20million%20lines%20of%20code-blue)
@@ -121,7 +119,7 @@ class Profile extends Me
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 623 Contributions in the Year 2025
+> 🏆 626 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -129,42 +127,6 @@ class Profile extends Me
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                362 commits         ████████████░░░░░░░░░░░░░   48.72 % 
-🌆 Daytime                246 commits         ████████░░░░░░░░░░░░░░░░░   33.11 % 
-🌃 Evening                116 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-🌙 Night                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Tuesday                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Wednesday                144 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Friday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Saturday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Sunday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -182,7 +144,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 20:11:08 UTC
+ Last Updated on 01/11/2025 08:10:27 UTC
 <!--END_SECTION:waka-->
 ---
 
