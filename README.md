@@ -111,7 +111,7 @@ class Profile extends Me
 # Weekly development breakdown
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C485%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C486%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -121,7 +121,7 @@ class Profile extends Me
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,477 Contributions in the Year 2025
+> 🏆 1,481 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -156,18 +156,17 @@ Sunday                   61 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-TypeScript               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-PHP                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Docker                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Blade Template           38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+YAML                     1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+PHP                      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Docker                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Blade Template           38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+.env file                26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 🔥 Editors: 
-PhpStorm                 7 hrs 32 mins       █████████████████████████   99.80 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+PhpStorm                 6 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -187,7 +186,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2025 08:45:55 UTC
+ Last Updated on 06/12/2025 20:49:59 UTC
 <!--END_SECTION:waka-->
 ---
 
