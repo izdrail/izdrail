@@ -111,8 +111,6 @@ class Profile extends Me
 # Weekly development breakdown
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C497%20hrs%2022%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.9%20million%20lines%20of%20code-blue)
@@ -129,42 +127,6 @@ class Profile extends Me
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                668 commits         █████████████░░░░░░░░░░░░   50.34 % 
-🌆 Daytime                260 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-🌃 Evening                118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-🌙 Night                  281 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   376 commits         ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-Tuesday                  395 commits         ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-Wednesday                165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Thursday                 125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Friday                   65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Saturday                 139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Sunday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -182,7 +144,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 20:54:14 UTC
+ Last Updated on 03/01/2026 08:52:36 UTC
 <!--END_SECTION:waka-->
 ---
 
