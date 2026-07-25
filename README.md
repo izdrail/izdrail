@@ -156,19 +156,19 @@ Sunday                   64 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-PHP                      2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-TypeScript               1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-Astro                    47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Makefile                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+TypeScript               1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+PHP                      1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Astro                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Makefile                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Vue                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 12 mins       ██████████████░░░░░░░░░░░   55.60 % 
-Antigravity              3 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.27 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Antigravity              3 hrs 20 mins       █████████████░░░░░░░░░░░░   53.74 % 
+Antigravity IDE          2 hrs 51 mins       ████████████░░░░░░░░░░░░░   46.11 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Linux                    7 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -188,7 +188,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 10:53:36 UTC
+ Last Updated on 25/07/2026 22:06:46 UTC
 <!--END_SECTION:waka-->
 ---
 
