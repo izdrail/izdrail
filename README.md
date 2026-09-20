@@ -111,17 +111,17 @@ class Profile extends Me
 # Weekly development breakdown
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C754%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C757%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-121.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-123.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 6,881 Contributions in the Year 2026
+> 🏆 6,981 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -132,21 +132,21 @@ class Profile extends Me
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3579 commits        ████████████░░░░░░░░░░░░░   46.97 % 
-🌆 Daytime                945 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-🌃 Evening                520 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-🌙 Night                  2575 commits        ████████░░░░░░░░░░░░░░░░░   33.80 % 
+🌞 Morning                3650 commits        ████████████░░░░░░░░░░░░░   46.63 % 
+🌆 Daytime                1029 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+🌃 Evening                562 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+🌙 Night                  2587 commits        ████████░░░░░░░░░░░░░░░░░   33.05 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2714 commits        █████████░░░░░░░░░░░░░░░░   35.62 % 
-Tuesday                  2762 commits        █████████░░░░░░░░░░░░░░░░   36.25 % 
-Wednesday                567 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Thursday                 457 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Friday                   505 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Saturday                 380 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Sunday                   234 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Monday                   2726 commits        █████████░░░░░░░░░░░░░░░░   34.82 % 
+Tuesday                  2779 commits        █████████░░░░░░░░░░░░░░░░   35.50 % 
+Wednesday                587 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Thursday                 470 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Friday                   553 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Saturday                 404 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Sunday                   309 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
 
 
@@ -156,28 +156,28 @@ Sunday                   234 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-PHP                      1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   33.75 % 
-TypeScript               1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   33.05 % 
-YAML                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+PHP                      2 hrs               █████████░░░░░░░░░░░░░░░░   37.42 % 
+TypeScript               51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+YAML                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Blade Template           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 46 mins       ████████████████████░░░░░   80.81 % 
-Antigravity              53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Antigravity IDE          5 hrs 6 mins        ████████████████████████░   94.85 % 
+Antigravity              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 💻 Operating System: 
-Linux                    4 hrs 40 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-PHP                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Python                   19 repos            ████████░░░░░░░░░░░░░░░░░   32.76 % 
+TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+PHP                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -187,7 +187,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 14:21:55 UTC
+ Last Updated on 20/09/2026 23:40:43 UTC
 <!--END_SECTION:waka-->
 ---
 
