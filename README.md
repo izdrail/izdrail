@@ -111,7 +111,7 @@ class Profile extends Me
 # Weekly development breakdown
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C758%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C758%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -121,7 +121,7 @@ class Profile extends Me
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 7,150 Contributions in the Year 2026
+> 🏆 7,154 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -132,21 +132,21 @@ class Profile extends Me
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3860 commits        ███████████░░░░░░░░░░░░░░   45.55 % 
-🌆 Daytime                1234 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-🌃 Evening                731 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-🌙 Night                  2649 commits        ████████░░░░░░░░░░░░░░░░░   31.26 % 
+🌞 Morning                3876 commits        ███████████░░░░░░░░░░░░░░   45.56 % 
+🌆 Daytime                1234 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+🌃 Evening                732 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+🌙 Night                  2665 commits        ████████░░░░░░░░░░░░░░░░░   31.33 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2958 commits        █████████░░░░░░░░░░░░░░░░   34.91 % 
-Tuesday                  2934 commits        █████████░░░░░░░░░░░░░░░░   34.62 % 
-Wednesday                660 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Thursday                 488 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Friday                   619 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Saturday                 415 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Sunday                   400 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Monday                   2974 commits        █████████░░░░░░░░░░░░░░░░   34.96 % 
+Tuesday                  2950 commits        █████████░░░░░░░░░░░░░░░░   34.68 % 
+Wednesday                661 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Thursday                 488 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Friday                   619 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Saturday                 415 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Sunday                   400 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 
 
@@ -156,19 +156,19 @@ Sunday                   400 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-PHP                      3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.70 % 
-TypeScript               1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Other                    1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-YAML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Blade Template           38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+PHP                      3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.71 % 
+TypeScript               1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Other                    55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+YAML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Blade Template           38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 22 mins       ████████████████████████░   94.83 % 
-Antigravity CLI          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Opencode Cli             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Antigravity IDE          8 hrs 42 mins       ████████████████████████░   95.04 % 
+Antigravity CLI          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Codex CLI                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Linux                    9 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -188,7 +188,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 15:12:33 UTC
+ Last Updated on 24/09/2026 00:17:39 UTC
 <!--END_SECTION:waka-->
 ---
 
