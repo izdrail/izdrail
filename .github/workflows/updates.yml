@@ -9,7 +9,7 @@ on:
 jobs:
   update-readme:
     name: Update this repo's README with latest WaKa time stats
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - uses: izdrail/stats.izdrail.com@main
         with:
