@@ -156,17 +156,15 @@ Sunday                   580 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               5 mins              ██████████████░░░░░░░░░░░   56.64 % 
-Git Config               3 mins              ████████░░░░░░░░░░░░░░░░░   30.84 % 
-Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+TypeScript               5 mins              ████████████████████░░░░░   81.89 % 
+Other                    1 min               █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
 
 🔥 Editors: 
-Antigravity IDE          8 mins              █████████████████████░░░░   85.66 % 
-OpenCode                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Antigravity IDE          5 mins              ████████████████████░░░░░   81.89 % 
+OpenCode                 1 min               █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -186,7 +184,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 01:14:09 UTC
+ Last Updated on 21/11/2026 16:04:58 UTC
 <!--END_SECTION:waka-->
 ---
 
