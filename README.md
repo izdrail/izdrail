@@ -115,13 +115,13 @@ class Profile extends Me
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-135.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-146.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 13,440 Contributions in the Year 2026
+> 🏆 13,493 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -132,21 +132,21 @@ class Profile extends Me
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1926 commits        █████████░░░░░░░░░░░░░░░░   37.60 % 
-🌆 Daytime                1662 commits        ████████░░░░░░░░░░░░░░░░░   32.44 % 
-🌃 Evening                1092 commits        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-🌙 Night                  443 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+🌞 Morning                1955 commits        █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌆 Daytime                1683 commits        ████████░░░░░░░░░░░░░░░░░   32.45 % 
+🌃 Evening                1101 commits        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+🌙 Night                  447 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Tuesday                  681 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Wednesday                969 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Thursday                 700 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Friday                   922 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Saturday                 742 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Sunday                   580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Monday                   529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Tuesday                  729 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Wednesday                984 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Thursday                 700 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Friday                   922 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Saturday                 742 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Sunday                   580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 ```
 
 
@@ -156,15 +156,13 @@ Sunday                   580 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               5 mins              ████████████████████░░░░░   81.89 % 
-Other                    1 min               █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+TypeScript               5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity IDE          5 mins              ████████████████████░░░░░   81.89 % 
-OpenCode                 1 min               █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Antigravity IDE          5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -184,7 +182,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/izdrail/izdrail/master/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2026 04:45:37 UTC
+ Last Updated on 24/11/2026 19:30:28 UTC
 <!--END_SECTION:waka-->
 ---
 
